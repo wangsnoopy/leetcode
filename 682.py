@@ -17,3 +17,4 @@ class Solution:
                 record.append(int(i))
 
         return sum(record)
+    
